@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Web Development Intern",
+        "organisation": "STEM-E",
+        "startDate": "Jan, 2024",
+        "endDate": "Aug, 2024",
+        "experiences": ["Worked on Note Summarizing Web Application called NoteSage", "Used Figma to make a design prototype of the project", "Used HTML and CSS to implement the front-end of the website", "Integrated Gemini API for summarizations and quiz questions"],
+        "imageSrc": "history/steme.png"
+    }
+]

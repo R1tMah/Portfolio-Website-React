@@ -1,0 +1,24 @@
+[
+    {
+        "title": "NBA Game Predictor ",
+        "imageSrc": "projects/project.png",
+        "description": "This is a web application that predicts NBA games using a sci-kit.learn Logistic Regeression model. The model predicts the correct game around 74 percent of the time. We used an NBA API to fetch the data required. Then we performed many numPy operations to calculate the features required for our predictions.  Connected the application to a Flask back-end application. ",
+        "skills": ["Python", "HTML", "CSS", "JavaScript"],
+        "source":  "https://github.com/R1tMah/basketball-predictor"
+    },
+    {
+        "title": "Schedule Making App",
+        "imageSrc": "projects/project.png",
+        "description": "Developed an application to create personalized schedules based on user inputs regarding attention span, motivation levels, and mental state, collected through a questionnaire. The App allows the users to view their old schedules. App also gives the funcitonality to set reminders for tasks later than the current day. Collaborated with a few others to create this app, using Git and GitHub. App is planned to be released on the App Store by end of 2024.",
+        "skills": ["Dart"],
+        "source":  "https://github.com/R1tMah/Schedule_Maker/tree/main"
+    },
+    {
+        "title": "Song Lyrics Analysis",
+        "imageSrc": "projects/project.png",
+        "description": "Developed an sentiment analysis model using PyTorch and TensorFlow that reads song lyrics and analyzes the different themes and sentiments in the song. The model provides visualizations using Chart.js to help users understand the emotional content of the lyrics. Connected the lyrics to a database using PostgreSQL. Used Express for backend. Made a React front-end to create the website",
+        "skills": ["Python", "SQL",  "JavaScript"],
+        "source":  "https://github.com/R1tMah/Song-Lyrics-Analysis"
+    }
+    
+]

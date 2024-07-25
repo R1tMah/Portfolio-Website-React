@@ -16,7 +16,7 @@
     {
         "title": "Song Lyrics Analysis",
         "imageSrc": "projects/project.png",
-        "description": "Developed an sentiment analysis model using PyTorch and TensorFlow that reads song lyrics and analyzes the different themes and sentiments in the song. The model provides visualizations using Chart.js to help users understand the emotional content of the lyrics. Connected the lyrics to a database using PostgreSQL. Used Express for backend. Made a React front-end to create the website",
+        "description": "Developed an sentiment analysis model using TensorFlow that reads song lyrics and analyzes the different themes and sentiments in the song. The model provides visualizations using Chart.js to help users understand the emotional content of the lyrics. Connected the lyrics to a database using PostgreSQL. Used Flask for backend. Made a React front-end to create the website.",
         "skills": ["Python", "SQL",  "JavaScript"],
         "source":  "https://github.com/R1tMah/Song-Lyrics-Analysis"
     }

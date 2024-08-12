@@ -48,15 +48,16 @@
 }
 
 .heroImg {
-    width: 20%;
+    width: 30%;
     z-index: 1;
+    padding-left: 150px;
 }
 
 
 
 .topBlur{
     position: absolute;
-    width: 50vw;
+    width: 40vw;
     height: 50vw;
     min-width: 350px;
     min-height: 350px;

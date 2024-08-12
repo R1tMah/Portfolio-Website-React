@@ -17,10 +17,10 @@ export const About = () => {
                     />
                     <div className={styles.aboutItemText}>
                         <h3>
-                            Student
+                            Computer Science Student
                         </h3>
                         <p>
-                            I am a student at the University of Maryland, expecting to graduate in December 2026. The relevant courses I have taken are  Data Structures with Java, Linear Algebra , Discrete Mathematics, Computer Systems with C, Algorithms, Organization of Programming Languages with Ruby and oCaml. 
+                           Currently studying Computer Science at the University of Maryland, with expected graduation of December 2026. <br></br><br></br> Relevant Courses:  Data Structures with Java, Linear Algebra , Discrete Mathematics, Computer Systems with C, Algorithms, Organization of Programming Languages with Ruby and oCaml. 
                         </p>
                     </div>
                 </li>
@@ -50,7 +50,7 @@ export const About = () => {
                             Data Engineering and Machine Learning
                         </h3>
                         <p>
-                            I enjoy working with data, numbers, and statistics. I find machine learning very interesting and have experience with different models in Python such as sci-kit-learn.
+                            I enjoy working with data, numbers, and statistics. I find machine learning very interesting and have experience with different models in Python such as sci-kit-learn and TensorFlow.
                         </p>
                     </div>
                 </li>

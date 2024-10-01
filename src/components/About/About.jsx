@@ -20,7 +20,7 @@ export const About = () => {
                             Computer Science Student
                         </h3>
                         <p>
-                           Currently studying Computer Science at the University of Maryland, with expected graduation of December 2026. <br></br><br></br> Relevant Courses:  Data Structures with Java, Linear Algebra , Discrete Mathematics, Computer Systems with C, Algorithms, Organization of Programming Languages with Ruby and oCaml. 
+                           Currently studying Computer Science at the University of Maryland, with expected graduation of May 2026. <br></br><br></br> Relevant Courses:  Data Structures with Java, Linear Algebra , Discrete Mathematics, Computer Systems with C, Algorithms, Organization of Programming Languages with Ruby and oCaml. 
                         </p>
                     </div>
                 </li>
